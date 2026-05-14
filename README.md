@@ -27,3 +27,6 @@
 | [Wl-clipboard](https://github.com/bugaevc/wl-clipboard) | Clipboard manager for Wayland |
 | [Brightnessctl](https://github.com/Hummer12007/brightnessctl) | Screen brightness control from keybinds |
 | [Playerctl](https://github.com/altdesktop/playerctl) | Media playback control for bar keybinds |
+
+
+and hyprland config gui
